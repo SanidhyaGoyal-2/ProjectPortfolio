@@ -1,0 +1,193 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/12/29/14/51/mountains-1112911__340.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+header{
+    font-family: 'Iceland', cursive;
+    background-color: black;
+    color: white;
+    width:80vw;
+    height: 200px;
+    margin-left: 10vw;
+    margin-top:50px;
+    margin-bottom: 100px;
+    padding: 20px;
+    border: black solid 1px;
+    border-radius: 10px;
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+h3{
+    font-family: 'Rationale', sans-serif;
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    font-family: 'Swanky and Moo Moo', cursive;
+    color: rgb(73, 134, 184);
+    font-size: 33px;
+    padding: 10%;
+}
+li{
+    list-style: none;
+    font-size: 50px;
+    padding-left: 10px;
+    float: left;
+}
+.about{
+    background-color: snow;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 0.1%;
+    margin-bottom: 100px;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+}
+.about img{
+    margin-left: 10%;
+    border: black solid 1px;
+    margin-bottom: 50px;
+}
+.navigation a:hover{
+    color: aqua;
+    text-decoration: underline;
+
+}
+.profile{
+    background-color: snow;
+    width: auto;
+    border: black solid 1px;
+    width: 80vw;
+    margin-left: 10vw;
+    font-family: 'Swanky and Moo Moo', cursive;
+    color: rgb(73, 134, 184);
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+    margin-bottom: 100px;
+}
+.profile td{
+    padding-left: 10vw;
+}
+.testimonials{
+    background-color: snow;
+    width: 80vw;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+    margin-left: 10vw;
+    text-align: center;
+    padding-top: 5px;
+}
+.testimonials img{
+    width: 40%;
+    height: 400px;
+    border: black solid 1px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer{
+    background-color: cadetblue;
+    border: black solid 1px;
+    height: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+footer h3{
+    text-align: left;
+}
+
+h3 img{
+    width: 40px;
+    height: 40px;
+}
+td{
+    font-size: 33px;
+}
+.image{
+    background-color: snow;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 0.1%;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+    text-align: center;
+    font-family: 'Swanky and Moo Moo', cursive;
+}
+.image a{
+    color: blueviolet;
+    font-size: 33px;
+  
+}
+.annoy{
+    background-color: snow;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 0.1%;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+    text-align: center;
+    font-family: 'Swanky and Moo Moo', cursive;
+}
+.annoy a{
+    color: blueviolet;
+    font-size: 33px;
+  
+}
+.tic{
+    background-color: snow;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 0.1%;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+    text-align: center;
+    font-family: 'Swanky and Moo Moo', cursive;
+}
+.tic a{
+    color: blueviolet;
+    font-size: 33px;
+  
+}
+.number{
+    background-color: snow;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 0.1%;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+    text-align: center;
+    font-family: 'Swanky and Moo Moo', cursive;
+}
+.number a{
+    color: blueviolet;
+    font-size: 33px;
+  
+}
